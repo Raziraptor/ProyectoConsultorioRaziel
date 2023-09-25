@@ -1,0 +1,9 @@
+# Ignorar archivos .class generados por compilación Java
+*.class
+
+# Ignorar archivos de intercambio temporal de Vim
+*.swp
+
+# Ignorar archivos y directorios específicos de IntelliJ IDEA
+/.idea/
+*.iml
