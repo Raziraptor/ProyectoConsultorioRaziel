@@ -1,23 +1,8 @@
-# ProyectoConsultorioRaziel
+# Funcion de Crear Cita
 
-Esta aplicacion facilita el manejo de agendas y consultas con distintos doctores, esto puede ayudarlo para saber mas detalles de cada doctor y especialidades de cada uno, facilitando asi su seleccion y su agendado.
+Dentro del menu de opciones existe la de crear citas, al seleccionar esta opcion debemos ingresar la fecha, el motivo y seleccionar el doctor y el paciente.
 
-## Instalación y Configuración
-
-//
-
-## Uso del Programa
-
-Al iniciar sesion tendra acceso a agendar una cita con los distintos doctores que registre el usuario, ademas de poder registrar pacientes nuevos y hacer modificaciones en citas previamente establecidos
-
-## Créditos
-
-//
-
-## Licencia
-
-Este proyecto está bajo la [Licencia MIT](https://opensource.org/licenses/MIT)
-
+Tambien en esta rama hay una funcion para eliminarlas seleccionando el ID asignado a esta cita.
 ---
 
 © Raziel Escamilla - 2023
