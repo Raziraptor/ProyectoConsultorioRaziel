@@ -1,3 +1,6 @@
+# Ignorar archivos CSV
+*.csv
+
 # Ignorar archivos .class generados por compilación Java
 *.class
 
