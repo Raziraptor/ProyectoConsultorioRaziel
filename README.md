@@ -1,22 +1,14 @@
-# ProyectoConsultorioRaziel
+# Dar de Alta doctores
 
-Esta aplicacion facilita el manejo de agendas y consultas con distintos doctores, esto puede ayudarlo para saber mas detalles de cada doctor y especialidades de cada uno, facilitando asi su seleccion y su agendado.
+Con esta funcion podemos registrar a los doctores dentro de un consultorio, esto mediante los datos de nombre y especialidad, aqui se asignan automaticamente los numeros de identificacion 
 
-## Instalación y Configuración
+Ejemplo 1, Javier Escamilla, Cirujano
 
-//
+#Dar de baja o eliminar
 
-## Uso del Programa
+Tambien hay una funcion para borrar a los doctores, esta funciona de la siguiente manera
 
-Al iniciar sesion tendra acceso a agendar una cita con los distintos doctores que registre el usuario, ademas de poder registrar pacientes nuevos y hacer modificaciones en citas previamente establecidos
-
-## Créditos
-
-//
-
-## Licencia
-
-Este proyecto está bajo la [Licencia MIT](https://opensource.org/licenses/MIT)
+Se selecciona el id del doctor y se confirma su eliminacion
 
 ---
 
