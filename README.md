@@ -1,22 +1,14 @@
-# ProyectoConsultorioRaziel
+# Crear Pacientes
 
-Esta aplicacion facilita el manejo de agendas y consultas con distintos doctores, esto puede ayudarlo para saber mas detalles de cada doctor y especialidades de cada uno, facilitando asi su seleccion y su agendado.
+Con esta funcion damos de alta a un paciente solo con su nombre ya que el ID se asigna automaticamente a cada paciente
 
-## Instalación y Configuración
+# Eliminar paciente
 
-//
+Con esta se da de baja a los pacientes solamente con su id lo que simplifica mucho este trabajo
 
-## Uso del Programa
+# Lista de pacientes
 
-Al iniciar sesion tendra acceso a agendar una cita con los distintos doctores que registre el usuario, ademas de poder registrar pacientes nuevos y hacer modificaciones en citas previamente establecidos
-
-## Créditos
-
-//
-
-## Licencia
-
-Este proyecto está bajo la [Licencia MIT](https://opensource.org/licenses/MIT)
+Se cuenta con una lista de pacientes para poder saber el ID y Nombre de cada uno y poder simplificar las demas tareas
 
 ---
 
